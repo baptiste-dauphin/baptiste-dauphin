@@ -6,6 +6,9 @@ Former Lan-Party organizer.
 I prefer GitLab for collaboration.
 https://gitlab.com/baptiste-dauphin
 
+My doc
+https://doc.baptiste-dauphin.com/
+
 <!--
 **baptiste-dauphin/baptiste-dauphin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
